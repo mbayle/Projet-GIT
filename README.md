@@ -1,1 +1,1 @@
-https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/
+https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/ Etape 1 git init Etape 2 git add Etape 3 git commit - m + message Etape 4 git remote add origin + URL Etape 5 git push origin master
